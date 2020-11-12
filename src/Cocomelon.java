@@ -6,5 +6,9 @@ public class Cocomelon {
         // today is Thursday
         // today rainy day
         // have a fun
+
+        // november
+        // winter
+        // kids
     }
 }
